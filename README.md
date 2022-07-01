@@ -1,6 +1,3 @@
-# GrammarlySRC
-Fully Deobfucated and Beautified.... 
-
 
 # Grammarly's Source Code (Chrome)
 This is the extracted and deobfucated source code of Gramarly's Chrome Extension.
